@@ -23,7 +23,7 @@ You are a participant in a hacking competition at Credit Suisse and want to trac
 
 For your set of scores, you must calculate your modal rank. If there are multiple modes, return the highest value.
 
-## Input Formats
+## Input Formats 
 
 The first input is an array of `n` scores of all the participants, `scores[i]`.
 
